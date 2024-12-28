@@ -1,0 +1,2 @@
+# AlumniDetailsApp
+AlumniDetailsApp SpringBoot Backend
